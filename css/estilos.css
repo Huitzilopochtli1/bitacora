@@ -4,11 +4,11 @@ body {
 }
 
 .main {
-  width: 70%;
+  width: 90%;
   margin: 20px auto;
   border: 1px solid blue;
   padding: 20px;
-  background-color: yellowgreen;
+  background-color: palevioletred;
 }
 
 h2 {
@@ -16,7 +16,8 @@ h2 {
 }
 
 .encabezado {
-  background-color: darkcyan;
+  background-color: violet;
+  color: white;
   padding: 20px;
   margin-bottom: 20px;
   font-size: 30px;
