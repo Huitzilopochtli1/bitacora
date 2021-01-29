@@ -17,11 +17,9 @@ h2 {
 }
 
 .encabezado {
-  <<<<<<< HEAD background-color: darkred;
   color: burlywood;
-  =======background-color: violet;
-  color: white;
-  >>>>>>>header padding: 20px;
+  background-color: crimson;
+  padding: 20px;
   margin-bottom: 20px;
   font-size: 30px;
   box-shadow: 0px 10px 10px black;
