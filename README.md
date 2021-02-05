@@ -5,7 +5,7 @@
 -Todos nuestros estudiantes aprenderan una herramienta obligatoria si quieren aspirar a buenos puestos de trabajo
 -Recuerda que la practica hace al maestro
 
-#Blog Site Bitacora
+# Blog Site Bitacora
 
 ![](https://www.syloper.com/wp-content/uploads/git_destacada-1024x486.png)
 
