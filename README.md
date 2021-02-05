@@ -15,17 +15,17 @@
 
 [TOC]
 
-##¿Qué es un sistemas de control de versiones?
-##¿Por qué git?
-##Instalación de git
-##Comandos básicos para utilizar la terminal
-##Areas de trabajo y sus ciclos
-##Creación de nuestro primer repositorio
-##Mi primer commit
-##Analizando los cambios
-##Checkout para viajar en el tiempo 
-##Reset
-##Repositorio remoto flujo de trabajo
+## ¿Qué es un sistemas de control de versiones?
+## ¿Por qué git?
+## Instalación de git
+## Comandos básicos para utilizar la terminal
+## Areas de trabajo y sus ciclos
+## Creación de nuestro primer repositorio
+## Mi primer commit
+## Analizando los cambios
+## Checkout para viajar en el tiempo 
+## Reset
+## Repositorio remoto flujo de trabajo
 
 > Nada es mas peligroso que la verdad en un mundo que miente, si avanzo sigueme, si me detengo empujame, si retrocedo matame
 > -Angela Becerra
